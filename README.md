@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Simple Webshell for Hackers</h4>
+<h4 align="center">Simple Webshell for Hackers.</h4>
 
 <p align="center">
   <a href="https://github.com/thenurhabib/doomdellreleases">
