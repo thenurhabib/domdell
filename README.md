@@ -9,16 +9,17 @@
 <h4 align="center">Simple Webshell for Hackers</h4>
 
 <p align="center">
-  <a href="https://github.com/thenurhabib/domdell/releases">
+  <a href="https://github.com/thenurhabib/doomdellreleases">
     <img src="https://img.shields.io/github/release/thenurhabib/domdell.svg">
   </a>
-  <a href="https://travis-ci.com/thenurhabib/domdell">
-    <img src="https://img.shields.io/travis/com/thenurhabib/domdell.svg">
-  </a>
+ 
   <a href="https://github.com/thenurhabib/domdell/issues?q=is%3Aissue+is%3Aclosed">
       <img src="https://img.shields.io/github/issues-closed-raw/thenurhabib/domdell.svg">
   </a>
-</p>
+  
+  <a href="https://github.com/thenurhabib/domdell/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/thenurhabib/domdell">
+  </a>
 
 ![img](./img/shell1.png)
 
